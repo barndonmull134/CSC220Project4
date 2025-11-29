@@ -1,1 +1,5 @@
-tasks
+1.  Make the constructor
+2.  Make getName method
+3.  make getRank method
+4.  make bestYear method
+5.  make plot method
